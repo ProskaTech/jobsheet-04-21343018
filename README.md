@@ -1,4 +1,4 @@
-## Object-oriented Programming 02: Java Operators
+## Object-oriented Programming 04: Java Operators
 > Created by Anita Nursi &nbsp;&middot;&nbsp;
 > Student ID Number: 21343018 &nbsp;&middot;&nbsp;
 > Majority of Informatics &nbsp;&middot;&nbsp;
