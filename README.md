@@ -1,5 +1,15 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Object-oriented Programming 04: Java Operators
+> Created by Anita Nursi &nbsp;&middot;&nbsp;
+> Student ID Number: 21343018 &nbsp;&middot;&nbsp;
+> Majority of Informatics &nbsp;&middot;&nbsp;
+> Faculcity of Engineering &nbsp;&middot;&nbsp;
+> Universitas Negeri Padang
+---
+# About
+This is a learning project about operators in Java. Operator in Java is a symbol that is used to perform operations. For example: +, -, *, / etc. 
+<br><br> ![image](https://user-images.githubusercontent.com/112265105/189867603-60bb389e-c334-45ba-8878-1e8ee5ef1a2e.png)
+
+---
+Source: https://www.javatpoint.com/operators-in-java
+
+---
